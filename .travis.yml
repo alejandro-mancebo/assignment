@@ -22,7 +22,7 @@ install:
   #- cd node-modules
   #- ls -la
 
-  script:
+script:
   - npm run build
   - npm run test
 
